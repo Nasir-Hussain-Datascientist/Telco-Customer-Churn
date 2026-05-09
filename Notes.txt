@@ -9,4 +9,6 @@
 9: Electronic check users have the highest monthly charges, which may be linked to higher churn risk in that group.
 10: New customers have the highest churn rate, meaning customers are most likely to leave early in their lifecycle.
 11: Customers who stay generate significantly higher lifetime revenue than those who churn, showing churn directly impacts long-term profitability.
-12: 
+12: Long-term customers pay higher monthly charges on average, but they still churn less, indicating stronger loyalty and perceived value over time.
+13: Customer lifetime revenue increases significantly with tenure, showing that retaining customers long-term is highly valuable for business profitability.
+14: Churn sharply decreases as customer tenure increases, confirming that early-stage customers are the most at-risk segment.
