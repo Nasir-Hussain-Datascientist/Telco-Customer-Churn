@@ -1,0 +1,12 @@
+1: Month-to-month customers are the highest churn risk group by far.
+2: Fiber optic users have the highest churn rate, indicating a possible service or pricing issue.
+3: Customers using electronic check have significantly higher churn, indicating payment method friction or lower loyalty.
+4: On average, customers stay around 32 months, but many leave early (low tenure is a churn risk indicator).
+5: Churn decreases as tenure increases, meaning long-term customers are much less likely to leave.
+6: Customers who churn tend to have higher monthly charges, suggesting price may be a factor in customer attrition.
+7: Month-to-month customers pay slightly higher monthly charges on average, which may contribute to higher churn in that segment.
+8: Fiber optic customers pay significantly higher monthly charges, which aligns with their higher churn risk.
+9: Electronic check users have the highest monthly charges, which may be linked to higher churn risk in that group.
+10: New customers have the highest churn rate, meaning customers are most likely to leave early in their lifecycle.
+11: Customers who stay generate significantly higher lifetime revenue than those who churn, showing churn directly impacts long-term profitability.
+12: 
