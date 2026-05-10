@@ -1,0 +1,7 @@
+Feature,Importance
+Contract,0.72294456
+InternetService,0.1409808
+tenure,0.04481229
+MonthlyCharges,0.033253934
+PaymentMethod,0.029148322
+TotalCharges,0.028860178
